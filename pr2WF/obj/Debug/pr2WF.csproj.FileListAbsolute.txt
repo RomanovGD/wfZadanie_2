@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\pr2WF\pr2WF\bin\Debug\pr2WF.exe.config
+C:\Users\Acer\source\repos\pr2WF\pr2WF\bin\Debug\pr2WF.exe
+C:\Users\Acer\source\repos\pr2WF\pr2WF\bin\Debug\pr2WF.pdb
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.Form1.resources
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.Form2.resources
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.Form3.resources
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.Form4.resources
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.Properties.Resources.resources
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.exe
+C:\Users\Acer\source\repos\pr2WF\pr2WF\obj\Debug\pr2WF.pdb
